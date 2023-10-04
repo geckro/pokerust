@@ -1,0 +1,5 @@
+[general]
+
+[[general.shiny]]
+# The shiny chance, per pokemon spawn. Max is 2,147,483,647
+shiny_chance = 4096 # Required. 1/4096 pokemon will be shiny

@@ -1,6 +1,8 @@
+mod battle;
 mod pokemon;
 
 fn main() {
-    let number_of_times_to_print = 5;
-    pokemon::get_random_pokemon(number_of_times_to_print);
+    let num_times_to_print = 2;
+    let results = pokemon::get_random_pokemon(num_times_to_print);
+    let _ = battle::battle_simulation(results);
 }

@@ -1,0 +1,88 @@
+[types]
+# Examples. You can make new types here.
+[[types.normal]]
+weak_against = ["rock", "steel"]
+no_dmg_against = "ghost"
+
+[[types.fire]]
+weak_against = ["fire", "water", "rock", "dragon"]
+strong_against = ["grass", "ice", "bug", "steel"]
+
+[[types.water]]
+weak_against = ["water", "grass", "dragon"]
+strong_against = ["fire", "ground", "rock"]
+
+[[types.electric]]
+weak_against = ["electric", "grass", "dragon"]
+strong_against = ["water", "flying"]
+no_dmg_against = "ground"
+
+[[types.grass]]
+weak_against = ["fire", "poison", "flying", "bug", "dragon", "steel"]
+strong_against = ["water", "ground", "rock"]
+
+[[types.ice]]
+weak_against = ["fire", "water", "ice", "steel"]
+strong_against = ["grass", "ground", "flying", "dragon"]
+
+[[types.fighting]]
+weak_against = ["poison", "flying", "psychic", "bug", "fairy"]
+strong_against = ["normal", "ice", "rock", "dark", "steel"]
+no_dmg_against = "ghost"
+
+[[types.poison]]
+weak_against = ["poison", "ground", "rock", "ghost"]
+strong_against = ["grass", "fairy"]
+no_dmg_against = "steel"
+
+[[types.ground]]
+weak_against = ["grass", "bug"]
+strong_against = ["fire", "electric", "poison", "rock", "steel"]
+no_dmg_against = "flying"
+
+[[types.flying]]
+weak_against = ["electric", "rock", "steel"]
+strong_against = ["grass", "fighting", "bug"]
+
+[[types.psychic]]
+weak_against = ["psychic", "steel"]
+strong_against = ["fighting", "poison"]
+no_dmg_against = "dark"
+
+[[types.bug]]
+weak_against = [
+    "fire",
+    "fighting",
+    "poison",
+    "flying",
+    "ghost",
+    "steel",
+    "fairy",
+]
+strong_against = ["grass", "psychic", "dark"]
+
+[[types.rock]]
+weak_against = ["fighting", "ground", "steel"]
+strong_against = ["fire", "ice", "flying", "bug"]
+
+[[types.ghost]]
+no_dmg_against = "normal"
+weak_against = "dark"
+strong_against = ["psychic", "ghost"]
+
+[[types.dragon]]
+no_dmg_against = "fairy"
+weak_against = "steel"
+strong_against = ["dragon"]
+
+[[types.dark]]
+weak_against = ["fighting", "dark", "fairy"]
+strong_against = ["psychic", "ghost"]
+
+[[types.steel]]
+weak_against = ["fire", "water", "electric", "steel"]
+strong_against = ["ice", "rock", "fairy"]
+
+[[types.fairy]]
+weak_against = ["fire", "poison", "steel"]
+strong_against = ["fighting", "dragon", "dark"]

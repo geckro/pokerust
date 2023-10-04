@@ -1,46 +1,13 @@
 [evolutions]
 
-[[evolutions.arcanine]]
-dex = 58
-method = "stone"
-stone = "fire"
+# EXAMPLES
 
-[[evolutions.arcanine.hisuian]]
-dex = 58
-method = "stone"
-stone = "fire"
+# [[evolutions.arcanine]]
+# dex = 58
+# method = "stone"
+# stone = "fire"
 
-[[evolutions.charizard]]
-dex = 5
-method = "level"
-level = 36
-
-[[evolutions.charmeleon]]
-dex = 4
-method = "level"
-level = 16
-
-[[evolutions.flareon]]
-dex = 133
-method = "stone"
-stone = "fire"
-
-[[evolutions.ivysaur]]
-dex = 1
-method = "level"
-level = 16
-
-[[evolutions.ninetales]]
-dex = 37
-method = "stone"
-stone = "fire"
-
-[[evolutions.poliwrath]]
-dex = 61
-method = "stone"
-stone = "water"
-
-[[evolutions.venusaur]]
-dex = 2
-method = "level"
-level = 32
+# [[evolutions.charizard]]
+# dex = 5
+# method = "level"
+# level = 36

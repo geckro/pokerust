@@ -1,9 +1,47 @@
+# Glossary:
+#   - name: if the move has the same name as the key but uppercase, do not include name
+#   - type: Look at types.toml for the valid types
+#   - category: 1 for physical, 2 for status, 3 for special, 4 for physical/special
+#   - power: How much damage the move deals
+#   - accuracy: How accurate a move is, in %
+#   - pp: How much a Pokemon can use that move before it runs out
+#   - target_adjacent: if the move will target pokemon next to it
+
 [moves]
 
+[[moves.ember]]
+type = "fire"
+category = 3
+power = 40
+status = { burn = true }
+status_accuracy = 10
+accuracy = 100
+pp = 25
+
+[[moves.growl]]
+type = "normal"
+category = 2
+status = { attack = -1 }
+accuracy = 100
+pp = 40
+
+[[moves.leer]]
+type = "normal"
+category = 2
+status = { defense = -1 }
+accuracy = 100
+pp = 30
+
+[[moves.scratch]]
+type = "normal"
+category = 1
+power = 40
+accuracy = 100
+pp = 35
+
 [[moves.tackle]]
-name = true
-type = 'normal'
-category = 'physical'
-power = '40'
-accuracy = '100'
-pp = '35'
+type = "normal"
+category = 1
+power = 40
+accuracy = 100
+pp = 35
