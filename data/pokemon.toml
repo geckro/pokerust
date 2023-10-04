@@ -1,0 +1,1153 @@
+[pokemon]
+
+[[pokemon.abomasnow]]
+name = true
+type = ["grass", "ice"]
+dex = 460
+gen = 4
+
+[[pokemon.abra]]
+name = true
+type = "psychic"
+dex = 63
+gen = 1
+
+[[pokemon.aerodactyl]]
+name = true
+type = ["rock", "flying"]
+dex = 142
+gen = 1
+
+[[pokemon.alakazam]]
+name = true
+type = "psychic"
+dex = 65
+gen = 1
+
+[[pokemon.arbok]]
+name = true
+type = "poison"
+dex = 24
+gen = 1
+
+[[pokemon.arcanine]]
+name = true
+type = "fire"
+dex = 59
+gen = 1
+
+[[pokemon.arcanine.hisuian]]
+name = true
+type = ["fire", "rock"]
+dex = 58
+gen = 8.5
+
+[[pokemon.articuno]]
+name = true
+type = ["ice", "flying"]
+dex = 144
+legendary = true
+gen = 1
+
+[[pokemon.articuno.galarian]]
+name = true
+type = ["psychic", "flying"]
+dex = 144
+legendary = true
+gen = 8
+
+[[pokemon.bayleef]]
+name = true
+type = "grass"
+dex = 153
+
+[[pokemon.beedrill]]
+name = true
+type = ["bug", "poison"]
+dex = 15
+gen = 1
+
+[[pokemon.bellsprout]]
+name = true
+type = ["grass", "poison"]
+dex = 69
+gen = 1
+
+[[pokemon.blastoise]]
+name = true
+type = "water"
+dex = 9
+gen = 1
+
+[[pokemon.bulbasaur]]
+name = true
+type = ["grass", "poison"]
+dex = 1
+gen = 1
+m = 87.5
+f = 12.5
+catch_rate = 11.9
+
+[[pokemon.butterfree]]
+name = true
+type = ["bug", "flying"]
+dex = 12
+gen = 1
+
+[[pokemon.caterpie]]
+name = true
+type = "bug"
+dex = 10
+gen = 1
+
+[[pokemon.chansey]]
+name = true
+type = "normal"
+dex = 113
+gen = 1
+
+[[pokemon.charizard]]
+name = true
+type = ["fire", "flying"]
+dex = 6
+gen = 1
+
+[[pokemon.charmander]]
+name = true
+type = "fire"
+dex = 4
+gen = 1
+
+[[pokemon.charmeleon]]
+name = true
+type = "fire"
+dex = 5
+gen = 1
+
+[[pokemon.chikorita]]
+name = true
+type = "grass"
+dex = 152
+
+[[pokemon.clefable]]
+name = true
+type = "fairy"
+dex = 36
+gen = 1
+
+[[pokemon.clefairy]]
+name = true
+type = "fairy"
+dex = 35
+gen = 1
+
+[[pokemon.cloyster]]
+name = true
+type = ["water", "ice"]
+dex = 91
+gen = 1
+
+[[pokemon.cubone]]
+name = true
+type = "ground"
+dex = 104
+gen = 1
+
+[[pokemon.dewgong]]
+name = true
+type = ["water", "ice"]
+dex = 87
+gen = 1
+
+[[pokemon.diglett]]
+name = true
+type = "ground"
+dex = 50
+gen = 1
+
+[[pokemon.diglett.alolan]]
+name = true
+type = ["ground", "steel"]
+dex = 50
+gen = 7
+
+[[pokemon.ditto]]
+name = true
+type = "normal"
+dex = 132
+gen = 1
+
+[[pokemon.dodrio]]
+name = true
+type = ["normal", "flying"]
+dex = 85
+gen = 1
+
+[[pokemon.doduo]]
+name = true
+type = ["normal", "flying"]
+dex = 84
+gen = 1
+
+[[pokemon.dragonair]]
+name = true
+type = "dragon"
+dex = 148
+gen = 1
+
+[[pokemon.dragonite]]
+name = true
+type = ["dragon", "flying"]
+dex = 149
+gen = 1
+
+[[pokemon.dratini]]
+name = true
+type = "dragon"
+dex = 147
+gen = 1
+
+[[pokemon.drowzee]]
+name = true
+type = "psychic"
+dex = 96
+gen = 1
+
+[[pokemon.dugtrio]]
+name = true
+type = "ground"
+dex = 51
+gen = 1
+
+[[pokemon.dugtrio.alolan]]
+name = true
+type = ["ground", "steel"]
+dex = 51
+gen = 7
+
+[[pokemon.eevee]]
+name = true
+type = "normal"
+dex = 133
+gen = 1
+
+[[pokemon.ekans]]
+name = true
+type = "poison"
+dex = 23
+gen = 1
+
+[[pokemon.electabuzz]]
+name = true
+type = "electric"
+dex = 125
+gen = 1
+
+[[pokemon.electrode]]
+name = true
+type = "electric"
+dex = 101
+gen = 1
+
+[[pokemon.electrode.hisuian]]
+name = true
+type = ["electric", "grass"]
+dex = 101
+gen = 8.5
+
+[[pokemon.exeggcute]]
+name = true
+type = ["grass", "psychic"]
+dex = 102
+gen = 1
+
+[[pokemon.exeggutor]]
+name = true
+type = ["grass", "psychic"]
+dex = 103
+gen = 1
+
+[[pokemon.exeggutor.alolan]]
+name = true
+type = ["grass", "dragon"]
+dex = 103
+gen = 7
+
+[[pokemon.farfetchd]]
+name = "Farfetch'd"
+type = ["normal", "flying"]
+dex = 83
+gen = 1
+
+[[pokemon.farfetchd.galarian]]
+name = "Galarian Farfetch'd"
+type = "fighting"
+dex = 83
+gen = 8
+
+[[pokemon.fearow]]
+name = true
+type = ["normal", "flying"]
+dex = 22
+gen = 1
+
+[[pokemon.flareon]]
+name = true
+type = "fire"
+dex = 136
+gen = 1
+
+[[pokemon.gastly]]
+name = true
+type = ["ghost", "poison"]
+dex = 92
+gen = 1
+
+[[pokemon.gengar]]
+name = true
+type = ["ghost", "poison"]
+dex = 94
+gen = 1
+
+[[pokemon.geodude]]
+name = true
+type = ["rock", "ground"]
+dex = 74
+gen = 1
+
+[[pokemon.geodude.alolan]]
+name = true
+type = ["rock", "electric"]
+dex = 74
+gen = 6
+
+[[pokemon.gloom]]
+name = true
+type = ["grass", "poison"]
+dex = 44
+gen = 1
+
+[[pokemon.golbat]]
+name = true
+type = ["poison", "flying"]
+dex = 42
+gen = 1
+
+[[pokemon.goldeen]]
+name = true
+type = "water"
+dex = 118
+gen = 1
+
+[[pokemon.golduck]]
+name = true
+type = "water"
+dex = 55
+gen = 1
+
+[[pokemon.golem]]
+name = true
+type = ["rock", "ground"]
+dex = 76
+gen = 1
+
+[[pokemon.golem.alolan]]
+name = true
+type = ["rock", "electric"]
+dex = 76
+gen = 6
+
+[[pokemon.graveler]]
+name = true
+type = ["rock", "ground"]
+dex = 75
+gen = 1
+
+[[pokemon.graveler.alolan]]
+name = true
+type = ["rock", "electric"]
+dex = 75
+gen = 6
+
+[[pokemon.grimer]]
+name = true
+type = "poison"
+dex = 88
+gen = 1
+
+[[pokemon.grimer.alolan]]
+name = true
+type = ["poison", "dark"]
+dex = 88
+gen = 7
+
+[[pokemon.growlithe]]
+name = true
+type = "fire"
+dex = 58
+gen = 1
+
+[[pokemon.growlithe.hisuian]]
+name = true
+type = ["fire", "rock"]
+dex = 58
+gen = 8.5
+
+[[pokemon.gyarados]]
+name = true
+type = ["water", "flying"]
+dex = 130
+gen = 1
+
+[[pokemon.haunter]]
+name = true
+type = ["ghost", "poison"]
+dex = 93
+gen = 1
+
+[[pokemon.hitmonchan]]
+name = true
+type = "fighting"
+dex = 107
+gen = 1
+
+[[pokemon.hitmonlee]]
+name = true
+type = "fighting"
+dex = 106
+gen = 1
+
+[[pokemon.horsea]]
+name = true
+type = "water"
+dex = 116
+gen = 1
+
+[[pokemon.hypno]]
+name = true
+type = "psychic"
+dex = 97
+gen = 1
+
+[[pokemon.ivysaur]]
+name = true
+type = ["grass", "poison"]
+dex = 2
+gen = 1
+
+[[pokemon.jigglypuff]]
+name = true
+type = ["normal", "fairy"]
+dex = 39
+gen = 1
+
+[[pokemon.jolteon]]
+name = true
+type = "electric"
+dex = 135
+gen = 1
+
+[[pokemon.jynx]]
+name = true
+type = ["ice", "psychic"]
+dex = 124
+gen = 1
+
+[[pokemon.kabuto]]
+name = true
+type = ["rock", "water"]
+dex = 140
+gen = 1
+
+[[pokemon.kabutops]]
+name = true
+type = ["rock", "water"]
+dex = 141
+gen = 1
+
+[[pokemon.kadabra]]
+name = true
+type = "psychic"
+dex = 64
+gen = 1
+
+[[pokemon.kakuna]]
+name = true
+type = ["bug", "poison"]
+dex = 14
+gen = 1
+
+[[pokemon.kangaskhan]]
+name = true
+type = "normal"
+dex = 115
+gen = 1
+
+[[pokemon.kingler]]
+name = true
+type = "water"
+dex = 99
+gen = 1
+
+[[pokemon.koffing]]
+name = true
+type = "poison"
+dex = 109
+gen = 1
+
+[[pokemon.krabby]]
+name = true
+type = "water"
+dex = 98
+gen = 1
+
+[[pokemon.lapras]]
+name = true
+type = ["water", "ice"]
+dex = 131
+gen = 1
+
+[[pokemon.lickitung]]
+name = true
+type = "normal"
+dex = 108
+gen = 1
+
+[[pokemon.machamp]]
+name = true
+type = "fighting"
+dex = 68
+gen = 1
+
+[[pokemon.machoke]]
+name = true
+type = "fighting"
+dex = 67
+gen = 1
+
+[[pokemon.machop]]
+name = true
+type = "fighting"
+dex = 66
+gen = 1
+
+[[pokemon.magikarp]]
+name = true
+type = "water"
+dex = 129
+gen = 1
+
+[[pokemon.magmar]]
+name = true
+type = "fire"
+dex = 126
+gen = 1
+
+[[pokemon.magnemite]]
+name = true
+type = ["electric", "steel"]
+dex = 81
+gen = 1
+
+[[pokemon.magneton]]
+name = true
+type = ["electric", "steel"]
+dex = 82
+gen = 1
+
+[[pokemon.mankey]]
+name = true
+type = "fighting"
+dex = 56
+gen = 1
+
+[[pokemon.marowak]]
+name = true
+type = "ground"
+dex = 105
+gen = 1
+
+[[pokemon.marowak.alolan]]
+name = true
+type = ["fire", "ghost"]
+dex = 105
+gen = 7
+
+[[pokemon.meganium]]
+name = true
+type = "grass"
+dex = 154
+
+[[pokemon.meowth]]
+name = true
+type = "normal"
+dex = 52
+gen = 1
+
+[[pokemon.meowth.alolan]]
+name = true
+type = "dark"
+dex = 52
+gen = 7
+
+[[pokemon.meowth.galarian]]
+name = true
+type = "steel"
+dex = 52
+gen = 8
+
+[[pokemon.metapod]]
+name = true
+type = "bug"
+dex = 11
+gen = 1
+
+[[pokemon.mew]]
+name = true
+type = "psychic"
+dex = 151
+legendary = true
+gen = 1
+
+[[pokemon.mewtwo]]
+name = true
+type = "psychic"
+dex = 150
+legendary = true
+gen = 1
+
+[[pokemon.moltres]]
+name = true
+type = ["fire", "flying"]
+dex = 146
+legendary = true
+gen = 1
+
+[[pokemon.moltres.galarian]]
+name = true
+type = ["dark", "flying"]
+dex = 146
+legendary = true
+gen = 8
+
+[[pokemon.mrmime]]
+name = "Mr. Mime"
+type = ["psychic", "fairy"]
+dex = 122
+gen = 1
+
+[[pokemon.mrmime.galarian]]
+name = "Galarian Mr. Mime"
+type = ["ice", "psychic"]
+dex = 122
+gen = 8
+
+[[pokemon.muk]]
+name = true
+type = "poison"
+dex = 89
+gen = 1
+
+[[pokemon.muk.alolan]]
+name = true
+type = ["poison", "dark"]
+dex = 89
+gen = 7
+
+[[pokemon.nidoking]]
+name = true
+type = ["poison", "ground"]
+dex = 34
+gen = 1
+
+[[pokemon.nidoqueen]]
+name = true
+type = ["poison", "ground"]
+dex = 31
+gen = 1
+
+[[pokemon.nidoranfemale]]
+name = "Nidoran♀"
+type = "poison"
+dex = 29
+gen = 1
+
+[[pokemon.nidoranmale]]
+name = "Nidoran♂"
+type = "poison"
+dex = 32
+gen = 1
+
+[[pokemon.nidorina]]
+name = true
+type = "poison"
+dex = 30
+gen = 1
+
+[[pokemon.nidorino]]
+name = true
+type = "poison"
+dex = 33
+gen = 1
+
+[[pokemon.ninetales]]
+name = true
+type = "fire"
+dex = 38
+gen = 1
+
+[[pokemon.ninetales.alolan]]
+name = true
+type = ["ice", "fairy"]
+dex = 38
+gen = 7
+
+[[pokemon.oddish]]
+name = true
+type = ["grass", "poison"]
+dex = 43
+gen = 1
+
+[[pokemon.omanyte]]
+name = true
+type = ["rock", "water"]
+dex = 138
+gen = 1
+
+[[pokemon.omastar]]
+name = true
+type = ["rock", "water"]
+dex = 139
+gen = 1
+
+[[pokemon.onix]]
+name = true
+type = ["rock", "ground"]
+dex = 95
+gen = 1
+
+[[pokemon.paras]]
+name = true
+type = ["bug", "grass"]
+dex = 46
+gen = 1
+
+[[pokemon.parasect]]
+name = true
+type = ["bug", "grass"]
+dex = 47
+gen = 1
+
+[[pokemon.persian]]
+name = true
+type = "normal"
+dex = 53
+
+[[pokemon.persian.alolan]]
+name = true
+type = "dark"
+dex = 53
+gen = 6
+
+[[pokemon.pidgeot]]
+name = true
+type = ["normal", "flying"]
+dex = 18
+gen = 1
+
+[[pokemon.pidgeotto]]
+name = true
+type = ["normal", "flying"]
+dex = 17
+gen = 1
+
+[[pokemon.pidgey]]
+name = true
+type = ["normal", "flying"]
+dex = 16
+gen = 1
+
+[[pokemon.pikachu]]
+name = true
+type = "electric"
+dex = 25
+gen = 1
+
+[[pokemon.pinsir]]
+name = true
+type = "bug"
+dex = 127
+gen = 1
+
+[[pokemon.poliwag]]
+name = true
+type = "water"
+dex = 60
+gen = 1
+
+[[pokemon.poliwhirl]]
+name = true
+type = "water"
+dex = 61
+
+[[pokemon.poliwrath]]
+name = true
+type = ["water", "fighting"]
+dex = 62
+gen = 1
+
+[[pokemon.ponyta]]
+name = true
+type = "fire"
+dex = 77
+gen = 1
+
+[[pokemon.ponyta.galarian]]
+name = true
+type = "psychic"
+dex = 77
+gen = 8
+
+[[pokemon.porygon]]
+name = true
+type = "normal"
+dex = 137
+gen = 1
+
+[[pokemon.primeape]]
+name = true
+type = "fighting"
+dex = 57
+gen = 1
+
+[[pokemon.psyduck]]
+name = true
+type = "water"
+dex = 54
+gen = 1
+
+[[pokemon.raichu]]
+name = true
+type = "electric"
+dex = 26
+gen = 1
+
+[[pokemon.raichu.alolan]]
+name = true
+type = ["electric", "psychic"]
+dex = 26
+gen = 7
+
+[[pokemon.rapidash]]
+name = true
+type = "fire"
+dex = 78
+gen = 1
+
+[[pokemon.rapidash.galarian]]
+name = true
+type = ["psychic", "fairy"]
+dex = 78
+gen = 8
+
+[[pokemon.raticate]]
+name = true
+type = "normal"
+dex = 20
+gen = 1
+
+[[pokemon.raticate.alolan]]
+name = true
+type = ["dark", "normal"]
+dex = 20
+gen = 7
+
+[[pokemon.rattata]]
+name = true
+type = "normal"
+dex = 19
+gen = 1
+
+[[pokemon.rattata.alolan]]
+name = true
+type = ["dark", "normal"]
+dex = 19
+gen = 7
+
+[[pokemon.rhydon]]
+name = true
+type = ["ground", "rock"]
+dex = 112
+gen = 1
+
+[[pokemon.rhyhorn]]
+name = true
+type = ["ground", "rock"]
+dex = 111
+gen = 1
+
+[[pokemon.sandshrew]]
+name = true
+type = "ground"
+dex = 27
+gen = 1
+
+[[pokemon.sandshrew.alolan]]
+name = true
+type = ["ice", "steel"]
+dex = 27
+gen = 7
+
+[[pokemon.sandslash]]
+name = true
+type = "ground"
+dex = 28
+gen = 1
+
+[[pokemon.sandslash.alolan]]
+name = true
+type = ["ice", "steel"]
+dex = 28
+gen = 7
+
+[[pokemon.scyther]]
+name = true
+type = ["bug", "flying"]
+dex = 123
+gen = 1
+
+[[pokemon.seadra]]
+name = true
+type = "water"
+dex = 117
+gen = 1
+
+[[pokemon.seaking]]
+name = true
+type = "water"
+dex = 119
+gen = 1
+
+[[pokemon.seel]]
+name = true
+type = "water"
+dex = 86
+gen = 1
+
+[[pokemon.shellder]]
+name = true
+type = "water"
+dex = 90
+gen = 1
+
+[[pokemon.slowbro]]
+name = true
+type = ["water", "psychic"]
+dex = 80
+gen = 1
+
+[[pokemon.slowbro.galarian]]
+name = true
+type = ["poison", "psychic"]
+dex = 80
+gen = 8
+
+[[pokemon.slowpoke]]
+name = true
+type = ["water", "psychic"]
+dex = 79
+gen = 1
+
+[[pokemon.slowpoke.galarian]]
+name = true
+type = "psychic"
+dex = 79
+gen = 8
+
+[[pokemon.snorlax]]
+name = true
+type = "normal"
+dex = 143
+gen = 1
+
+[[pokemon.spearow]]
+name = true
+type = ["normal", "flying"]
+dex = 21
+gen = 1
+
+[[pokemon.squirtle]]
+name = true
+type = "water"
+dex = 7
+gen = 1
+
+[[pokemon.starmie]]
+name = true
+type = ["water", "psychic"]
+dex = 121
+gen = 1
+
+[[pokemon.staryu]]
+name = true
+type = "water"
+dex = 120
+gen = 1
+
+[[pokemon.tangela]]
+name = true
+type = "grass"
+dex = 114
+gen = 1
+
+[[pokemon.tauros]]
+name = true
+type = "normal"
+dex = 128
+gen = 1
+
+[[pokemon.tauros.paldean.aqua]]
+name = true
+type = ["fighting", "water"]
+dex = 128
+gen = 9
+
+[[pokemon.tauros.paldean.blaze]]
+name = true
+type = ["fighting", "fire"]
+dex = 128
+gen = 9
+
+[[pokemon.tauros.paldean.combat]]
+name = true
+type = "fighting"
+dex = 128
+gen = 9
+
+[[pokemon.tentacool]]
+name = true
+type = ["water", "poison"]
+dex = 72
+gen = 1
+
+[[pokemon.tentacruel]]
+name = true
+type = ["water", "poison"]
+dex = 73
+gen = 1
+
+[[pokemon.vaporeon]]
+name = true
+type = "water"
+dex = 134
+gen = 1
+
+[[pokemon.venomoth]]
+name = true
+type = ["bug", "poison"]
+dex = 49
+gen = 1
+
+[[pokemon.venonat]]
+name = true
+type = ["bug", "poison"]
+dex = 48
+gen = 1
+
+[[pokemon.venusaur]]
+name = true
+type = ["grass", "poison"]
+dex = 3
+gen = 1
+
+[[pokemon.victreebel]]
+name = true
+type = ["grass", "poison"]
+dex = 71
+gen = 1
+
+[[pokemon.vileplume]]
+name = true
+type = ["grass", "poison"]
+dex = 45
+gen = 1
+
+[[pokemon.voltorb]]
+name = true
+type = "electric"
+dex = 100
+gen = 1
+
+[[pokemon.voltorb.hisuian]]
+name = true
+type = ["electric", "grass"]
+dex = 100
+gen = 8.5
+
+[[pokemon.vulpix]]
+name = true
+type = "fire"
+dex = 37
+gen = 1
+
+[[pokemon.vulpix.alolan]]
+name = true
+type = "ice"
+dex = 37
+gen = 7
+
+[[pokemon.wartortle]]
+name = true
+type = "water"
+dex = 8
+gen = 1
+
+[[pokemon.weedle]]
+name = true
+type = ["bug", "poison"]
+dex = 13
+gen = 1
+
+[[pokemon.weepinbell]]
+name = true
+type = ["grass", "poison"]
+dex = 70
+gen = 1
+
+[[pokemon.weezing]]
+name = true
+type = "poison"
+dex = 110
+gen = 1
+
+[[pokemon.weezing.galarian]]
+name = true
+type = ["poison", "fairy"]
+dex = 110
+gen = 8
+
+[[pokemon.wigglytuff]]
+name = true
+type = ["normal", "fairy"]
+dex = 40
+gen = 1
+
+[[pokemon.zapdos]]
+name = true
+type = ["electric", "flying"]
+dex = 145
+legendary = true
+gen = 1
+
+[[pokemon.zapdos.galarian]]
+name = true
+type = ["fighting", "flying"]
+dex = 145
+legendary = true
+gen = 8
+
+[[pokemon.zubat]]
+name = true
+type = ["poison", "flying"]
+dex = 41
+gen = 1

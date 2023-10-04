@@ -1,0 +1,9 @@
+[moves]
+
+[[moves.tackle]]
+name = true
+type = 'normal'
+category = 'physical'
+power = '40'
+accuracy = '100'
+pp = '35'
